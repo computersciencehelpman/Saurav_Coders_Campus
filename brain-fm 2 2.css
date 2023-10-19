@@ -37,6 +37,6 @@ a:hover {
     background-color: rgb(75, 75, 231);
     color: white;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;  
 }
