@@ -30,11 +30,14 @@ a:hover {
     background-color: rgb(75, 75, 231);
     color: white;
     display: flex;
-    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+   
+
 }
 
 .image-container img {
-    margin-right: 25x;
+    padding-left: 100px;
 }
 
 .section-2{
@@ -42,7 +45,7 @@ a:hover {
     color: white;
     display: flex;
     flex-direction: column;
-    align-items: left;   
+    align-items: center;   
 }
 
 .paragraph-container{
