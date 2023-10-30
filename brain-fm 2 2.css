@@ -2,18 +2,18 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    background-color: rgb(75, 75, 231);
+    background-color: #4912F6;
   }
   ​
   body {
     margin: 0px;
     font-family: Arial;
-    background-color: rgb(75, 75, 231);
+    background-color: #4912F6;
   }
   ​
  .pre-section{
 
-    background-color:  rgb(75, 75, 231);
+    background-color:  #4912F6;
     color: white;
     display: flex;
     flex-direction: row;
@@ -21,7 +21,7 @@
   
   }
   .section-1 {
-    background-color: rgb(75, 75, 231);
+    background-color: #4912F6;
     color: white;
     display: flex;
     flex-direction: row;
@@ -44,7 +44,7 @@
   }
   
   .section-2 {
-    background-color: rgb(75, 75, 231);
+    background-color: #4912F6;
     color: white;
     display: flex;
     flex-direction: column;
@@ -52,7 +52,7 @@
   }
   .row {
     display: flex;
-    background-color: rgb(75, 75, 231);
+    background-color: #4912F6;
     color: white;
   }
 
