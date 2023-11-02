@@ -1,5 +1,5 @@
 * {
-    padding: 0;
+    padding: 15;
     margin: 0;
     box-sizing: border-box;
     background-color: #4912F6;
@@ -30,10 +30,10 @@
 
   ​
   input[type='button'] {
-    padding: 7px 20x;
+    padding: 7px 20px;
     font-weight: bold;
-    border-radius: 15px;
-    padding: 15px;
+    border-radius: 50px;
+   
   }
 
   a:visited {
