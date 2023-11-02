@@ -15,7 +15,7 @@
 
     background-color:  #4912F6;
     color: white;
-    display: none;
+    display: flex;
     align-items: center;
     justify-content:space-between;
   
