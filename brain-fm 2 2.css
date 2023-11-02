@@ -16,9 +16,17 @@
     background-color:  #4912F6;
     color: white;
     display: flex;
-    align-items: center;
     justify-content:space-between;
+    align-items: center;
+    
   
+  }
+
+  .right-align {
+    display: flex;
+    justify-content:flex-end;
+    align-items: center;
+
   }
   .section-1 {
     background-color: #4912F6;
